@@ -1,6 +1,6 @@
 # Spider-Webapp: Swing Into Action with This Webapp Template
 
-!["With great power comes great responsibility"](media/spiderman.jpg)
+!["With great power comes great responsibility"](media/spiderman.JPG)
 
 ## The Origin Story
 
