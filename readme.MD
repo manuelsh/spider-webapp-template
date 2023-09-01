@@ -4,7 +4,7 @@
 
 ## The Origin Story
 
-Just like Peter Parker didn't become Spider-Man overnight, building a webapp from scratch isn't a walk in Central Park. You've got villains—err, base technologies—to wrangle: a server, APIs, SSL certificates, databases, and even authentication. It's like trying to balance school, work, and being a superhero all at once! But fret not, true believer! Spider-Webapp is here to give you a head start, offering a template based on the following state-of-the-art technologies:
+Just like Peter Parker didn't become Spider-Man overnight, building a webapp from scratch isn't a walk in Central Park. You've got villains, in the form of base technologies to wrangle: a server, APIs, SSL certificates, databases, and even authentication. It's like trying to balance school, work, and being a superhero all at once! But fret not, true believer! Spider-Webapp is here to give you a head start, offering a template based on the following state-of-the-art technologies:
 
 ## The Tech Lineup
 
